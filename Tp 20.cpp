@@ -8,7 +8,7 @@ int main()
 	int a=0;
 	int b=0;
 	
-	for(int i=1; i<5; i++)
+	for(int i=1; i<=5; i++)
 	{
 		cout<<"Ingrese un numero"<<endl;
 		cin>>n1;
